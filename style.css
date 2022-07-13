@@ -18,7 +18,7 @@
     max-width: 500px;
     background: #DBAD6A;
     margin: 0 auto;
-    background-image: url(backgroun.png);
+    background-image: url(asset/backgroun.png);
     background-position: center;
     background-size: cover;
 }
